@@ -52,5 +52,4 @@ security, and reliability while supporting production environments.
 📫 **How to reach me** 
 
 -  **📧 [Email](mailto:lokeshjangra012@gmail.com)**
--  **💼 [LinkedIn](www.linkedin.com/in/lokesh-kumar-09b18b229)**
 -  **💼 [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-09b18b229/)**
