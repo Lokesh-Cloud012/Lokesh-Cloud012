@@ -29,17 +29,7 @@ security, and reliability while supporting production environments.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
-  <img width="12" /><br></br>
-  <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
-  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSjUGayPWYjwfHvRRiS9NOvPr5SHFz1x8JQ&s" height="40" alt="GitLab logo"  />
-  <img width="12" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsKIL70Jr7E-g1Ij5QlV36XAK1mQ9vQ4Hiw&s" height="40" alt="Prometheus logo"  /> 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2500px-Zabbix_logo.svg.png" height="40" alt="Zabbix logo"  /> 
   <img width="12" />
